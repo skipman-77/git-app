@@ -1,25 +1,22 @@
-# README
-## how to use GitHub Desktop
-## hoe to use git revert
-This README would normally document whatever steps are necessary to get the
-application up and running.
+#Name
 
-Things you may want to cover:
+your body test checker
+~Are you healthiness　or sickness?~
 
-* Ruby version
+# DEMO
 
-* System dependencies
+please enter your test result.
+check you are annemia,and your liver,kidney is good or bad.
 
-* Configuration
+# Features
 
-* Database creation
+only enter your test result, you can know your health.
+this is Clinical laboratory technician supervision.
 
-* Database initialization
+# Requirement
 
-* How to run the test suite
+I don't know
 
-* Services (job queues, cache servers, search engines, etc.)
 
-* Deployment instructions
 
-* ...
+
